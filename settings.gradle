@@ -1,0 +1,3 @@
+include ':app:recyclertest'
+include ':app'
+rootProject.name = "park.mail"
